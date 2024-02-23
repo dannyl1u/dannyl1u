@@ -1,4 +1,12 @@
 ### Hi there 👋
+### who am i...
+- 📚 studying computer science @ sfu
+- 🔬 swe @ sfu connections lab (hci research group), incoming swe intern @ microsoft
+- 🔭 currently working on [Open WebUI](https://github.com/open-webui/open-webui) (200k downloads 💾, 6k stars ⭐️) as a contributor
+- 🧑‍💻 interested in building scalable data-intensive systems
+- 🌱 learning about gpt's, ai/ml, and llm's
+- 📫 how to reach me: [LinkedIn](https://www.linkedin.com/in/dannyliu421/)
+
 
 <!--
 **dannyl1u/dannyl1u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
