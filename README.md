@@ -2,8 +2,7 @@
 #### who am i...
 - 📚 studying computer science @ sfu
 - 🔬 swe @ sfu connections lab (hci research group) | incoming swe intern @ msft | prev swe intern @ worksafebc
-- 🔭 currently working on [Open WebUI](https://github.com/open-webui/open-webui) (12.7k downloads 💾, 6k stars ⭐️) as a contributor
-- 🧑‍💻 interested in building scalable data-intensive systems
+- 🔭 currently building new features on [Open WebUI](https://github.com/open-webui/open-webui) (12.7k+ downloads 💾, 6k+ stars ⭐️) as a contributor
 - 📫 how to reach me: [LinkedIn](https://www.linkedin.com/in/dannyliu421/)
 
 
