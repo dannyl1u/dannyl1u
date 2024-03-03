@@ -1,6 +1,6 @@
 ### Hi there 👋
-📫 how to reach me: [LinkedIn](https://www.linkedin.com/in/dannyliu421/)
-💬 [open-webui](https://github.com/open-webui/open-webui) contributor
+- 📫 how to reach me: [LinkedIn](https://www.linkedin.com/in/dannyliu421/)
+- 💬 [Open WebUI](https://github.com/open-webui/open-webui) contributor
 <!--
 **dannyl1u/dannyl1u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
