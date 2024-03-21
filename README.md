@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 💬 [Open WebUI](https://github.com/open-webui/open-webui) contributor (10k+ stars⭐️)
+- 👨‍💻 interested in building tools & interfaces for human-centered AI
+- 💬 active [Open WebUI](https://github.com/open-webui/open-webui) contributor (10k+ stars⭐️)
 - 📫 how to reach me: [LinkedIn](https://www.linkedin.com/in/dannyliu421/)
 <!--
 **dannyl1u/dannyl1u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
