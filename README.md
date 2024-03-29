@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 👨‍💻 interested in building tools & interfaces for human-centered AI
-- 💬 [Open WebUI](https://github.com/open-webui/open-webui) contributor (10k+ stars⭐️) - open-source AI user interface
+- 💬 [Open WebUI](https://github.com/open-webui/open-webui) contributor (10k+ stars⭐️) - the best open-source LLM user interface
 - 📫 how to reach me: [LinkedIn](https://www.linkedin.com/in/dannyliu421/)
 <!--
 **dannyl1u/dannyl1u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
