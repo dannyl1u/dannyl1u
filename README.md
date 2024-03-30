@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👨‍💻 interested in building tools & interfaces for human-centered AI
+- 👨‍💻 building tools & interfaces for human-centered AI
 - 💬 [Open WebUI](https://github.com/open-webui/open-webui) contributor (10k+ stars⭐️) - the best open-source LLM user interface
 - 📫 how to reach me: [LinkedIn](https://www.linkedin.com/in/dannyliu421/)
 <!--
