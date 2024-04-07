@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 👨‍💻 building tools & interfaces for human-centered AI
+- 📚 i'm a computer science undergraduate student at [Simon Fraser University](https://www.sfu.ca/computing/50-years.html)
+- 👨‍💻 i enjoy building tools & interfaces at the intersection of HCI and AI
 - 💬 [Open WebUI](https://github.com/open-webui/open-webui) contributor (10k+ stars⭐️) - the best open-source LLM user interface
-- 📚 studying computer science [@SFU](https://www.sfu.ca/computing/50-years.html)
 - 📫 how to reach me: [LinkedIn](https://www.linkedin.com/in/dannyliu421/)
 <!--
 **dannyl1u/dannyl1u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
