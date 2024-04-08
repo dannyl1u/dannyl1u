@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 📚 i'm a computer science undergraduate student at [Simon Fraser University](https://www.sfu.ca/computing/50-years.html)
 - 👨‍💻 i enjoy building tools & interfaces at the intersection of HCI and AI
+- 🔬 building apps for HCI & interaction design research @ [SFU Connections Lab](http://clab.iat.sfu.ca/) 
 - 💬 [Open WebUI](https://github.com/open-webui/open-webui) contributor (10k+ stars⭐️) - the best open-source user interface for LLMs
 - 📫 how to reach me: [LinkedIn](https://www.linkedin.com/in/dannyliu421/)
 <!--
