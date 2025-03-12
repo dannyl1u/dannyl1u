@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-- 🔭 open-source 👍
 <!--
 **dannyl1u/dannyl1u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
